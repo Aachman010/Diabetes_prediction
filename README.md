@@ -4,7 +4,7 @@ An end-to-end machine learning project that predicts the diabetes class (`0` or 
 
 The project has three parts:
 
-- `Untitled9.ipynb` — experimentation/EDA and model development
+- `diabetes_prediction.ipynb` — experimentation/EDA and model development
 - `train.py` — reproducible model training and evaluation
 - `app.py` — Streamlit deployment interface
 
